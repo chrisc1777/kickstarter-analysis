@@ -30,9 +30,10 @@ The biggest challenge came from the Outcomes based on Goal Analysis. Creating th
     2. Campaigns launched in December are more likely to fail than other months.
 
 - What can you conclude about the Outcomes based on Goals?
-    Campaigns with goals under $5000 are more likely to succeed than goals over $5,000 through $35,000.
+Campaigns with goals under $5000 are more likely to succeed than goals over $5,000 through $35,000.
 
 - What are some limitations of this dataset?
-    Overall the dataset contained a lot of valuable information. Maybe could use specific addresses than just the countries. It could also use more data on donators like highest or lowest donation amount.
+Overall the dataset contained a lot of valuable information. Maybe could use specific addresses than just the countries. It could also use more data on donators       like highest or lowest donation amount.
+    
 - What are some other possible tables and/or graphs that we could create?
-    Implementing a chart using the "Average Donation" could help point out some useful trends. Adding the deadline column to the launch date analysis could have helped determine how long successful campaigns last. Also using a column chart for comparing goals and pledges could help visualize the campaign outcomes. 
+Implementing a chart using the "Average Donation" could help point out some useful trends. Adding the deadline column to the launch date analysis could have helped     determine how long successful campaigns last. Also using a column chart for comparing goals and pledges could help visualize the campaign outcomes. 
